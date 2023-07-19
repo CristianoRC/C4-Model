@@ -1,10 +1,10 @@
 # C4-Model
 
-Palestra e conteúdos sobre C4 Model
+Repositório sobre conceitos base de C4 e um apresentação(slides) que estou montando sobre o assunto
 
 ## 🚀 C4 Model - Arquitetura de Software 📐
 
-<img src="./images/banner.png" width="600"/>
+<img src="./images/banner.png" width="400"/>
 
 O C4 Model é uma abordagem simples e intuitiva que permite visualizar a arquitetura de um sistema de software em diferentes níveis de detalhe, proporcionando uma maneira clara e concisa de comunicar a estrutura do software para as partes interessadas, incluindo desenvolvedores, arquitetos, gerentes de projeto e clientes. 💡
 A chave para o sucesso do C4 Model é a sua abordagem de camadas, que divide a arquitetura em quatro níveis principais:
