@@ -9,10 +9,7 @@ enableChalkboard: false
 
 ## 🚀 C4 - Model 📐
 
----
-
-![C4-model](https://raw.githubusercontent.com/CristianoRC/CustomerProfileCenter/main/Docs/1%20-%20System%20Context/System%20Context.png){width=100%}
-
+![-](./images/Capa.png){ width=55% }
 
 ---
 
@@ -24,14 +21,26 @@ enableChalkboard: false
 ### Padronização!
 
 
+![-](./images/diagram.svg){ width=60% }
+
+---
+
+#### Mesma solução diferentes desenhos
+
+![-](./images/mind-map.svg){ width=60% }
+
+
+---
+
+### UML?
+
 ---
 
 ### Complexidade
 
 ---
 
-### C4
-
+![-](https://infostart.ru/upload/iblock/50d/50dd77ec284cca1070600cf82822c5ca.png)
 
 ---
 
@@ -51,31 +60,58 @@ enableChalkboard: false
 
 ---
 
-### Code
+## Code
+
+![-](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png){ width=60% }
 
 ---
 
 ### Ferramentas
 
+![-](./images/tools.svg){ width=70% }
+
 ---
 
 ### Miro
+
+![-](./images/Miro.png){ width=85% }
 
 ---
 
 ### Excalidraw
 
+![-](./images/Excalidraw.png)
+
 ---
 
 ### Como manter atualizado?
 
----
-
-### Diagrama As code
+![-](./images/question.svg){ width=60% }
 
 ---
 
-### Mermaid
+### Diagram As Code
+
+![-](./images/programming.svg){ width=60% }
+
+---
+
+## Plant UML
+
+![-](https://ucarecdn.com/c354c00f-a972-4950-9e59-a8210caddebe/){ width=50% }
+
+---
+
+## Mermaid
+
+![-](https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg){ width=40% }
+
+---
+
+### Bora pra prática!
+
+![-](https://media1.giphy.com/media/HN6GLlUsMvue652b2w/giphy.gif?cid=ecf05e470bxv3gz929qe1ozwur1pjq5fzkpme6ac8j7lts6q&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+
 
 ---
 
