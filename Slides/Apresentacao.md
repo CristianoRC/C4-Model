@@ -25,6 +25,14 @@ enableChalkboard: false
 
 ---
 
+### Fluxo, Arquitetura, Cloud...
+
+---
+
+![-](./images/nazare.png){ width=80% }
+
+---
+
 #### Mesma solução diferentes desenhos
 
 ![-](./images/mind-map.svg){ width=60% }
@@ -32,11 +40,18 @@ enableChalkboard: false
 
 ---
 
+![-](./images/diagramas.png){ width=90% }
+
+
+---
+
 ### UML?
+![-](https://cdn-icons-png.flaticon.com/512/5108/5108789.png){ width=30% }
 
 ---
 
 ### Complexidade
+Principalmente na criação, são muitas regras!
 
 ---
 
