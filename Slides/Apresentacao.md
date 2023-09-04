@@ -50,6 +50,8 @@ enableChalkboard: false
 
 ### Readme
 
+![-](./images/readme.svg)
+
 ---
 
 ### O que colocar?
