@@ -9,6 +9,72 @@ enableChalkboard: false
 
 ### Documentação de projetos
 
+![-](./images/doc.svg){ width=70% }
+
+---
+
+### O que veremos hoje
+
+
+---
+
+### O que veremos hoje
+
+- Documentação
+
+---
+
+### O que veremos hoje
+
+- Documentação
+- Readme
+
+---
+
+### O que veremos hoje
+
+- Documentação
+- Readme
+- C4 Model
+
+---
+
+### O que veremos hoje
+
+- Documentação
+- Readme
+- C4 Model
+- Diagram As Code
+
+---
+
+### Readme
+
+---
+
+### O que colocar?
+
+
+
+---
+
+### Geradores
+
+- https://readme-gen.vercel.app/app
+
+- https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+- https://readme.so/editor
+
+---
+
+### Dúvidas?
+
+![alt](https://media3.giphy.com/media/3o6MbudLhIoFwrkTQY/giphy.gif?cid=790b76117789c6161150915091725a365bdeac4e06fd01cd&rid=giphy.gif&ct=g){ width=90% }
+
+---
+
+### E a documentação da arquitetura?
 
 ---
 
