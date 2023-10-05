@@ -54,11 +54,49 @@ enableChalkboard: false
 
 ---
 
-### O que colocar?
-
+## O que colocar?
 
 
 ---
+
+### O que colocar?
+
+- Qual o objetivo do projeto
+
+---
+
+### O que colocar?
+
+- Qual o objetivo do projeto
+- O que precisa ser instalado
+
+---
+
+### O que colocar?
+
+- Qual o objetivo do projeto
+- O que precisa ser instalado
+- Como rodar o projeto
+
+---
+
+### O que colocar?
+
+- Qual o objetivo do projeto
+- O que precisa ser instalado
+- Como rodar o projeto
+- Configurações, Migrations, Deploy...
+
+---
+
+### Exemplo
+
+![Fluxo De Caixa](./images/readme-exemplo.png)
+
+[Fluxo De Caixa](https://github.com/CristianoRC/Fluxo-De-Caixa)
+
+---
+
 
 ### Geradores
 
