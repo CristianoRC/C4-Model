@@ -60,7 +60,7 @@ enableChalkboard: false
 
 ---
 
-#### Por quê documentar?
+## Por quê documentar?
 
 
 ---
@@ -86,11 +86,20 @@ enableChalkboard: false
 
 ---
 
-### Mas esta sempre desatualizado...
+#### Por quê documentar?
+
+- Onboarding de pessaos no time
+- Não ficar dependendo de só uma pessoa
+- Facilidade na comunicação
+- ...
 
 ---
 
-### Mesmo assim, teremos uma ideia de onde estamos! E não vai ser tudo que vai estar desatualizado.
+#### Mas esta sempre desatualizado...
+
+---
+
+#### Mesmo assim, teremos uma ideia de onde estamos! E não vai ser tudo que vai estar desatualizado.
 
 
 ---
