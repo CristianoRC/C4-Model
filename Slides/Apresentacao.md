@@ -145,6 +145,16 @@ enableChalkboard: false
 - Qual o objetivo do projeto
 - O que precisa ser instalado
 - Como rodar o projeto
+- Dicionário de termos
+
+---
+
+### O que colocar?
+
+- Qual o objetivo do projeto
+- O que precisa ser instalado
+- Como rodar o projeto
+- Dicionário de termos
 - Configurações, Migrations, Deploy...
 
 ---
