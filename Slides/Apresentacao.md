@@ -188,12 +188,6 @@ enableChalkboard: false
 
 ---
 
-## 🚀 C4 - Model 📐
-
-![-](./images/Capa.png){ width=55% }
-
----
-
 ### Problema
 
 
@@ -233,6 +227,12 @@ enableChalkboard: false
 
 ### Complexidade
 Principalmente na criação, são muitas regras!
+
+---
+
+## 🚀 C4 - Model 📐
+
+![-](./images/Capa.png){ width=55% }
 
 ---
 
