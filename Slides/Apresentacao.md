@@ -236,11 +236,23 @@ Principalmente na criação, são muitas regras!
 
 ---
 
+### Camadas - 4
+
 ![-](https://infostart.ru/upload/iblock/50d/50dd77ec284cca1070600cf82822c5ca.png)
+
 
 ---
 
-### Camadas
+**Primeiro, visão geral; depois, amplie e filtre; em seguida, detalhes sob demanda - Ben Shneiderma, 1996**
+
+---
+
+[The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
+
+---
+
+![camadas](./images/camadas.png)
+
 
 ---
 
