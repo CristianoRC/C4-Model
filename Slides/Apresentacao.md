@@ -48,6 +48,57 @@ enableChalkboard: false
 
 ---
 
+## Documentar?
+
+---
+
+#### Software em funcionamento mais que documentação abrangente - Manifesto Ágil
+
+---
+
+### Na maioria dos casos precisamos documentar, nem que seja o básico!
+
+---
+
+#### Por quê documentar?
+
+
+---
+
+#### Por quê documentar?
+
+- Onboarding de pessaos no time
+
+---
+
+#### Por quê documentar?
+
+- Onboarding de pessaos no time
+- Não ficar dependendo de só uma pessoa
+
+---
+
+#### Por quê documentar?
+
+- Onboarding de pessaos no time
+- Não ficar dependendo de só uma pessoa
+- Facilidade na comunicação
+
+---
+
+### Mas esta sempre desatualizado...
+
+---
+
+### Mesmo assim, teremos uma ideia de onde estamos! E não vai ser tudo que vai estar desatualizado.
+
+
+---
+
+## Por onde começar?
+
+---
+
 ### Readme
 
 ![-](./images/readme.svg)
