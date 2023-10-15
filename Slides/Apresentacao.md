@@ -394,3 +394,7 @@ Principalmente na criação, são muitas regras!
 
 ---
 
+### De o primeiro passo
+#### Documente!
+
+---
