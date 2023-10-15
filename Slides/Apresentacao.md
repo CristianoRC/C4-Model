@@ -305,7 +305,31 @@ Principalmente na criação, são muitas regras!
 
 ---
 
-## System Context
+### System Context
+
+//TODO: Objetivo aqui
+
+---
+
+#### System Context - People
+
+---
+
+#### System Context - Software systems
+
+---
+
+#### System Context - Enterprise boundary
+
+---
+
+#### System Context - Interações
+
+---
+
+#### System Context - Público alvo
+
+Pessoas ténicas e não tecnicas
 
 ---
 
