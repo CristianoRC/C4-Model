@@ -56,6 +56,11 @@ enableChalkboard: false
 
 ---
 
+#### Alguns "traduzem" essa frase como: 
+#### NÃO documentar nada!
+
+---
+
 ### Na maioria dos casos precisamos documentar, nem que seja o básico!
 
 ---
@@ -91,6 +96,17 @@ enableChalkboard: false
 - Onboarding de pessaos no time
 - Não ficar dependendo de só uma pessoa
 - Facilidade na comunicação
+- Teu código fonte não conta toda história
+
+
+---
+
+#### Por quê documentar?
+
+- Onboarding de pessaos no time
+- Não ficar dependendo de só uma pessoa
+- Facilidade na comunicação
+- Teu código fonte não conta toda história
 - ...
 
 ---
