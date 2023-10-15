@@ -377,3 +377,20 @@ Principalmente na criação, são muitas regras!
 ###### The C4 model for visualising software architecture
 
 ![The C4 model for visualising software architecture](https://d2sofvawe08yqg.cloudfront.net/visualising-software-architecture/s_hero?1653735204)
+
+---
+
+#### Por onde começar?
+
+![-](./images/faq.svg)
+
+---
+
+### Crie um bom Readme
+
+---
+
+### Crie seu Diagrama de Contexto
+
+---
+
