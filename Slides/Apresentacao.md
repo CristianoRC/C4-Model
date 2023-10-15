@@ -257,6 +257,8 @@ Principalmente na criação, são muitas regras!
 
 ### Vai dando zoom nas camadas
 
+![zoom](./images/zoom.svg){ width=50% }
+
 ---
 
 ![zoom](./images/zoom-1.png)
