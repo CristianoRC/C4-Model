@@ -362,6 +362,18 @@ Principalmente na criação, são muitas regras!
 
 ---
 
-### Dúvidas?
+### Livros
 
-![alt](https://media3.giphy.com/media/3o6MbudLhIoFwrkTQY/giphy.gif?cid=790b76117789c6161150915091725a365bdeac4e06fd01cd&rid=giphy.gif&ct=g){ width=90% }
+![livros](./images/books.svg){ width=60% }
+
+---
+
+###### The software guidebook 
+
+![The software guidebook](https://d2sofvawe08yqg.cloudfront.net/documenting-software-architecture/s_hero?1653735035)
+
+---
+
+###### The C4 model for visualising software architecture
+
+![The C4 model for visualising software architecture](https://d2sofvawe08yqg.cloudfront.net/visualising-software-architecture/s_hero?1653735204)
