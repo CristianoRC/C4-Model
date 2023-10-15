@@ -289,15 +289,22 @@ Principalmente na criação, são muitas regras!
 
 ---
 
-### System Context
+## System Context
 
 ---
 
-### Container
+### System Context - Problema
+
+![banco](./images/banco.svg){ width=70% }
 
 ---
 
-### Component
+
+## Container
+
+---
+
+## Component
 
 ---
 
