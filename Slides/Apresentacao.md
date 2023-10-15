@@ -311,7 +311,9 @@ Principalmente na criação, são muitas regras!
 
 ---
 
-#### System Context - People
+#### System Context - Person
+
+![People](./images/people.png){ width=40% }
 
 ---
 
