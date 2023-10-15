@@ -319,9 +319,15 @@ Principalmente na criação, são muitas regras!
 
 #### System Context - Software systems
 
+![Sistema](./images/sistema.png){ width=90% }
+
 ---
 
 #### System Context - Enterprise boundary
+
+![Sistema](./images/bonduary.png){ width=70% }
+
+__Opcional__
 
 ---
 
