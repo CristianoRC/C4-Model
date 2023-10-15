@@ -333,11 +333,19 @@ __Opcional__
 
 #### System Context - Interações
 
+![Relacionamento](./images/relacionamento.png)
+
 ---
 
 #### System Context - Público alvo
 
 Pessoas ténicas e não tecnicas
+
+---
+
+#### System Context
+
+//TODO: Adiciona imagem do resultado final e falar como se parece
 
 ---
 
