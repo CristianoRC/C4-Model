@@ -293,13 +293,6 @@ Principalmente na criação, são muitas regras!
 
 ---
 
-### System Context - Problema
-
-![banco](./images/banco.svg){ width=70% }
-
----
-
-
 ## Container
 
 ---
@@ -353,6 +346,12 @@ Principalmente na criação, são muitas regras!
 ## Mermaid
 
 ![-](https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg){ width=40% }
+
+---
+
+### Problema
+
+![banco](./images/banco.svg){ width=70% }
 
 ---
 
