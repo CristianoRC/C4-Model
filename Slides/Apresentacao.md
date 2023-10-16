@@ -307,7 +307,7 @@ Principalmente na criação, são muitas regras!
 
 ### System Context
 
-//TODO: Objetivo aqui
+Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ---
 
