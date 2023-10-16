@@ -311,6 +311,12 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ---
 
+#### System Context - Público alvo
+
+Pessoas ténicas e não tecnicas
+
+---
+
 #### System Context - Person
 
 ![People](./images/people.png){ width=40% }
@@ -334,12 +340,6 @@ __Opcional__
 #### System Context - Interações
 
 ![Relacionamento](./images/relacionamento.png)
-
----
-
-#### System Context - Público alvo
-
-Pessoas ténicas e não tecnicas
 
 ---
 
