@@ -311,9 +311,9 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ---
 
-#### System Context - Público alvo
+### System Context - Público alvo
 
-Pessoas ténicas e não tecnicas
+**Pessoas ténicas e não tecnicas**
 
 ---
 
