@@ -333,7 +333,7 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ![Sistema](./images/bonduary.png){ width=70% }
 
-__Opcional__
+<small>Opcional</small>
 
 ---
 
