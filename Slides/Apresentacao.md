@@ -351,6 +351,69 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ## Container
 
+//TODO: Descrição
+
+---
+
+## Container
+
+//TODO: Publico alvo
+
+---
+
+#### Container - Person
+
+![People](./images/people.png){ width=40% }
+
+---
+
+#### Container - Sistema existente
+
+![Existente](./images/sistema-existente.png){ width=60% }
+
+
+---
+
+#### Container - Boundary
+
+![Sistema](./images/bonduary.png){ width=70% }
+
+<small>Opcional</small>
+
+
+---
+
+#### Container
+
+![container](./images/container.png){ width=60% }
+
+---
+
+#### Container - "Clientes"
+
+![app](./images/apps.png){ width=90% }
+
+
+---
+
+#### Container - Banco de dados
+
+![banco](./images/banco.png){ width=40% }
+
+---
+
+#### Container - Filas / Tópicos
+
+![banco](./images/fila.png){ width=40% }
+
+<small>Há controvérsias</small>
+
+---
+
+#### Container
+
+//TODO: Adiciona imagem do resultado final e falar como se parece
+
 ---
 
 ## Component
