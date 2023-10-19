@@ -345,7 +345,7 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 #### System Context
 
-//TODO: Adiciona imagem do resultado final e falar como se parece
+![context](./images/context-exemplo.png)
 
 ---
 
@@ -412,7 +412,7 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 #### Container
 
-//TODO: Adiciona imagem do resultado final e falar como se parece
+![container](./images/container-exemplo.png){ width=85% }
 
 ---
 
@@ -439,7 +439,7 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 #### Component
 
-//TODO: Adiciona imagem do resultado final e falar como se parece
+![componente](./images/componente-exemplo.png)
 
 ---
 
