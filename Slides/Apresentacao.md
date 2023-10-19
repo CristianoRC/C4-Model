@@ -87,7 +87,7 @@ enableChalkboard: false
 
 - Onboarding de pessaos no time
 - Não ficar dependendo de só uma pessoa
-- Facilidade na comunicação
+- Facilidade na comunicação / discussões
 
 ---
 
@@ -95,7 +95,7 @@ enableChalkboard: false
 
 - Onboarding de pessaos no time
 - Não ficar dependendo de só uma pessoa
-- Facilidade na comunicação
+- Facilidade na comunicação / discussões
 - Teu código fonte não conta toda história
 
 
@@ -105,7 +105,7 @@ enableChalkboard: false
 
 - Onboarding de pessaos no time
 - Não ficar dependendo de só uma pessoa
-- Facilidade na comunicação
+- Facilidade na comunicação / discussões
 - Teu código fonte não conta toda história
 - ...
 
