@@ -351,7 +351,7 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ## Container
 
-//TODO: Descrição
+Ter uma visão mais detalhada da arquitetura, quais os serviços fazem parte, e como se comunicam
 
 ---
 
@@ -419,8 +419,6 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 ## Component
 
 
-//TODO: Descrição
-
 ---
 
 ### Component - Público alvo
@@ -447,6 +445,12 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 ## Code
 
 ![-](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png){ width=60% }
+
+---
+
+## Code
+
+![Diagrama de classe](https://www.researchgate.net/publication/225686440/figure/fig3/AS:667828239732738@1536234068086/A-simple-class-diagram-for-a-commercial-software-application-in-UML-notation-The.png){ width=75% }    
 
 ---
 
