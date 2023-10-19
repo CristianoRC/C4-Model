@@ -418,6 +418,7 @@ Ter uma visão mais detalhada da arquitetura, quais os serviços fazem parte, e 
 
 ## Component
 
+O mais próximo do código, usado para discutir fluxos dentro do sei app/api...
 
 ---
 
