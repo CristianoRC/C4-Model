@@ -418,7 +418,31 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ## Component
 
+
+//TODO: Descrição
+
 ---
+
+## Component
+
+//TODO: Publico alvo
+
+---
+
+#### Component
+
+![-](./images/componente.png){ width=50% }
+
+<small>O unico diferente</small>
+
+---
+
+#### Component
+
+//TODO: Adiciona imagem do resultado final e falar como se parece
+
+---
+
 
 ## Code
 
