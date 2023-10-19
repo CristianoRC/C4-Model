@@ -355,9 +355,9 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ---
 
-## Container
+## Container - Público alvo
 
-//TODO: Publico alvo
+**Pessoas técnicas, dev, dba, qa...**
 
 ---
 
@@ -423,9 +423,9 @@ Tem como objetivo ser o ponto de entrada, uma visão geral!
 
 ---
 
-## Component
+## Component Público alvo
 
-//TODO: Publico alvo
+**Time que vai desenvolver a solução**
 
 ---
 
