@@ -14,8 +14,8 @@ C4Context
             Person(backoffice, "backoffice", "Pessoa responsável por processos internos")
         }
 
-        Container_Ext(api-conta, "Conta API", "ASP NET 7", "Sistema de  gerenciamento de conta bancária")
-        ContainerQueue(queue-conta, "Fila de criação de conta", "RabbitMQ")
+        Container_Ext(api_conta, "Conta API", "ASP NET 7", "Sistema de  gerenciamento de conta bancária")
+        ContainerQueue(queue_conta, "Onboarding finalizado", "RabbitMQ")
     }
 
     Container_Ext(documentos, "Documento OCR API", "", "Analisa e retorna dados das imagens dos documentos enviado")
@@ -33,9 +33,9 @@ C4Context
 
     Rel(api, documentos, "Faz chamadas para API", "HTTPS/JSON")
     Rel(api, notifications,"Faz chamadas para API", "HTTPS/JSON")
-    Rel(api, queue-conta, "Enfileira mensagem de onboarding aprovado", "TCP/JSON")
+    Rel(api, queue_conta, "Enfileira mensagem de onboarding aprovado", "TCP/JSON")
 
-    Rel(queue-conta, api-conta, "Recebe mensagem de onbaording aprovado", "TCP/JSON")
+    Rel(queue_conta, api_conta, "Recebe mensagem de onbaording aprovado", "TCP/JSON")
 
 
     Rel(notifications, cliente, "Envia notificações para", "SMTP")
