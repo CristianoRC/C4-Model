@@ -1,0 +1,9 @@
+@startuml container
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+LAYOUT_LANDSCAPE()
+LAYOUT_WITH_LEGEND()
+
+title Componente Diagram - Dinheiros S/A - Onboarding - Aprovação
