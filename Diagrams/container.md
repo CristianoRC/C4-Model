@@ -4,13 +4,18 @@
 C4Context
     title Container Diagram - Dinheiros S/A - Onboarding
 
-    Container_Boundary(banco,"Dinheiros S/A") {        
-        ContainerDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
-        ContainerDb(redis, "Cache", "Redis", "Armazena dados de cache")
+    Enterprise_Boundary(banco,"Dinheiros S/A") {
+        Container_Boundary(banco-onboarding,"Onboarding") {        
+            ContainerDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
+            ContainerDb(redis, "Cache", "Redis", "Armazena dados de cache")
 
-        Container(api, "Onboarding API", "ASP NET 7", "Sistema para gerenciamento e Onboarding", "API")
-        Container(app, "Onboarding Site", "JavaScript, Angular", "Sistema para gerenciamento e Onboarding via web browser")
-        Person(backoffice, "backoffice", "Pessoa responsável por processos internos")
+            Container(api, "Onboarding API", "ASP NET 7", "Sistema para gerenciamento e Onboarding")
+            Container(app, "Onboarding Site", "JavaScript, Angular", "Sistema para gerenciamento e Onboarding via web browser")
+            Person(backoffice, "backoffice", "Pessoa responsável por processos internos")
+        }
+
+        Container_Ext(api-conta, "Conta API", "ASP NET 7", "Sistema de  gerenciamento de conta bancária")
+        ContainerQueue(queue-conta, "Fila de criação de conta", "RabbitMQ")
     }
 
     Container_Ext(documentos, "Documento OCR API", "", "Analisa e retorna dados das imagens dos documentos enviado")
@@ -28,6 +33,10 @@ C4Context
 
     Rel(api, documentos, "Faz chamadas para API", "HTTPS/JSON")
     Rel(api, notifications,"Faz chamadas para API", "HTTPS/JSON")
+    Rel(api, queue-conta, "Enfileira mensagem de onboarding aprovado", "TCP/JSON")
+
+    Rel(queue-conta, api-conta, "Recebe mensagem de onbaording aprovado", "TCP/JSON")
+
 
     Rel(notifications, cliente, "Envia notificações para", "SMTP")
 ```
