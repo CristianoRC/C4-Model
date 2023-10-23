@@ -8,7 +8,7 @@ C4Context
         Person(backoffice, "backoffice", "Pessoa responsável por processos internos")
         Container(app-mobile, "Onboarding APP", "TypeScript, React Native", "App do banco")
 
-    Container_Boundary(banco-container,"Onboarding") {        
+    Container_Boundary(banco,"Dinheiros S/A") {        
             ContainerDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
             ContainerDb(redis, "Cache", "Redis", "Armazena dados de cache")
 
