@@ -4,14 +4,17 @@
 C4Context
     title Container Diagram - Dinheiros S/A - Onboarding
 
-    Container_Boundary(banco,"Dinheiros S/A") {        
-        ContainerDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
-        ContainerDb(redis, "Cache", "Redis", "Armazena dados de cache")
-
-        Container(api, "Onboarding API", "ASP NET 7", "Sistema para gerenciamento e Onboarding", "API")
-        Container(app, "Onboarding Site", "JavaScript, Angular", "Sistema para gerenciamento e Onboarding via web browser")
-        Container(app-mobile, "Onboarding APP", "TypeScript, React Native", "App do banco")
+    Enterprise_Boundary(banco,"Dinheiros S/A") {
         Person(backoffice, "backoffice", "Pessoa responsável por processos internos")
+        Container(app-mobile, "Onboarding APP", "TypeScript, React Native", "App do banco")
+
+    Container_Boundary(banco,"Dinheiros S/A") {        
+            ContainerDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
+            ContainerDb(redis, "Cache", "Redis", "Armazena dados de cache")
+
+            Container(api, "Onboarding API", "ASP NET 7", "Sistema para gerenciamento e Onboarding", "API")
+            Container(app, "Onboarding Site", "JavaScript, Angular", "Sistema para gerenciamento e Onboarding via web browser")
+        }
     }
 
     Container_Ext(documentos, "Documento OCR API", "", "Analisa e retorna dados das imagens dos documentos enviado")
