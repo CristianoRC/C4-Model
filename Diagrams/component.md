@@ -16,10 +16,26 @@ C4Context
           Component(controller_aprovacao, "Aprovação Controller", "ASP NET Controller", "Ponto de entreada para aprovação do onboarding")
           Component(aprovacao, "Componente de aprovação", "", "Controla o fluxo de aprovação")
           Component(notificacao, "Componente de notificacao", "", "Notificar a aprovação do onboarding")
+          ComponentDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
       }
-
-      ComponentDb(mongodb, "Database", "MongoDB", "Armazena os dados das contas")
+      
+      ComponentQueue(queue_conta, "Onboarding finalizado", "Queue - RabbitMQ", "Mensagem de onboarding finalizado")
+      Component_Ext(api_conta, "Conta API", "ASP NET 7", "Sistema de  gerenciamento de conta bancária")
   }
-
   Component_Ext(documentos, "Documento OCR API", "", "Analisa e retorna dados das imagens dos documentos enviado")
+
+  Rel(app, controller, "Faz chamadas para API", "HTTPS/JSON")
+  Rel(app, controller_aprovacao, "Faz chamadas para API", "HTTPS/JSON")
+  Rel(app_mobile, controller, "Faz chamadas para API", "HTTPS/JSON")
+
+  Rel(controller, analise, "Usa", "")
+  Rel(analise, criptografia, "Usa", "")
+  Rel(analise, mongodb, "Armazena dados no", "")
+  Rel(analise, documentos, "Valida documentos com", "")
+
+  Rel(controller_aprovacao, aprovacao, "Usa", "")
+  Rel(aprovacao, analise, "Usa", "")
+  Rel(aprovacao, queue_conta, "Enfileira aprovação no", "TCP/JSON")
+  Rel(queue_conta, api_conta, "Recebe mensagem de onbaording aprovado", "TCP/JSON")
+
 ```
