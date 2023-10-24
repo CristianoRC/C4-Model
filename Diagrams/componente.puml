@@ -1,4 +1,4 @@
-@startuml container
+@startuml componente
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
@@ -7,3 +7,12 @@ LAYOUT_LANDSCAPE()
 LAYOUT_WITH_LEGEND()
 
 title Componente Diagram - Dinheiros S/A - Onboarding - Aprovação
+
+Boundary(banco,"Dinheiros S/A") {
+    Container(app_mobile, "Onboarding APP", "TypeScript, React Native", "App do banco")
+    Container(app, "Onboarding Site", "JavaScript, Angular", "Sistema para gerenciamento e Onboarding via web browser")
+
+    Boundary(aprovacao, "Fluxo De Aprovação"){
+        Component(controller, "API Controller", "Teste", "Teste")
+    }
+}
