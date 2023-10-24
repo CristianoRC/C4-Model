@@ -96,7 +96,7 @@ enableChalkboard: false
 - Onboarding de pessaos no time
 - Não ficar dependendo de só uma pessoa
 - Facilidade na comunicação / discussões
-- Teu código fonte não conta toda história
+- Troubleshooting mains rápido
 
 
 ---
@@ -106,7 +106,7 @@ enableChalkboard: false
 - Onboarding de pessaos no time
 - Não ficar dependendo de só uma pessoa
 - Facilidade na comunicação / discussões
-- Teu código fonte não conta toda história
+- Troubleshooting mains rápido
 - ...
 
 ---
