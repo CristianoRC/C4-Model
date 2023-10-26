@@ -13,6 +13,13 @@ enableChalkboard: false
 
 ---
 
+### Quem sou eu?
+
+![-](./images/pessoal.svg){ width=50% }
+
+
+---
+
 ### O que veremos hoje
 
 
