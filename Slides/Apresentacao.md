@@ -15,7 +15,7 @@ enableChalkboard: false
 
 ### Quem sou eu?
 
-![-](./images/pessoal.svg){ width=50% }
+![-](./images/pessoal.png){ width=15% }
 
 
 ---
