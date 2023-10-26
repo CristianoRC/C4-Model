@@ -546,3 +546,10 @@ O mais próximo do código, usado para discutir fluxos dentro do sei app/api...
 #### Documente!
 
 ---
+
+### Contatos
+
+![qr-code](./images/qr-code.svg){ width=50% }
+
+---
+
