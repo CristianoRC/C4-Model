@@ -288,23 +288,11 @@ Principalmente na criação, são muitas regras!
 
 ---
 
-![zoom](./images/zoom-2.png)
-
----
-
 ![zoom](./images/zoom-3.png)
 
 ---
 
-![zoom](./images/zoom-4.png)
-
----
-
 ![zoom](./images/zoom-5.png)
-
----
-
-![zoom](./images/zoom-6.png)
 
 ---
 
