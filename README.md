@@ -2,7 +2,8 @@
 
 Repositório sobre conceitos base de C4 e um apresentação(slides) que estou montando sobre o assunto
 
-- [Slides](./Slides/Apresentacao.md)
+- [Slide Markdown](./Slides/Apresentacao.md)
+- [Slides de eventos específicos](https://drive.google.com/drive/folders/1XdjleIC3g7--Mt1Ff4tXfrXA0uo39xTG?usp=sharing)
 
 <img src="./images/banner.png" width="400"/>
 
