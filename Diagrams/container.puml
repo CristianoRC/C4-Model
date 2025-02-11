@@ -5,6 +5,7 @@
 
 LAYOUT_LANDSCAPE()
 LAYOUT_WITH_LEGEND()
+!theme C4_superhero from https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/themes
 
 title Container Diagram - Dinheiros S/A - Onboarding
     
